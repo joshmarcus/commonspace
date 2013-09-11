@@ -260,9 +260,9 @@ L.TileLayer.WMS2 = L.TileLayer.Canvas.extend({
 	
 
 	var animate = function() {
-	    var thisFrameFPS = 1000 / ((now=new Date) - lastUpdate);
-	    fps += (thisFrameFPS - fps) / fpsFilter;
-	    lastUpdate = now;
+	    //var thisFrameFPS = 1000 / ((now=new Date) - lastUpdate);
+	    //fps += (thisFrameFPS - fps) / fpsFilter;
+	    //lastUpdate = now;
 
 	    // just draw imageObj on canvas 
 	    drawOnCanvas();
