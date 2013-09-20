@@ -160,23 +160,27 @@ body {
     }
     .ui-slider-block.block-15m {
         background: #fab282;
-        left: 16.67%;
+        left: 14.29%;
     }
     .ui-slider-block.block-20m {
         background: #fddf84;
-        left: 33.34%;
+        left: 28.57%;
     }
     .ui-slider-block.block-30m {
         background: #DCF288;
-        left: 50%;
+        left: 42.86%;
     }
     .ui-slider-block.block-40m {
         background: #B6F2AE;
-        left: 66.67%;
+        left: 57.14%;
     }
     .ui-slider-block.block-50m {
         background: #98FEE6;
-        left: 83.35%;
+        left: 71.43%;
+    }
+    .ui-slider-block.block-60m {
+	background: #83D9FD;
+	left: 85.71%
     }
     
 #duration-labels {
